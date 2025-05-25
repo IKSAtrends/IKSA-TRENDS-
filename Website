@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IKSA - कपड़ों की प्रिंटिंग</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header, footer {
+      background-color: #333;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 1em;
+      border-radius: 8px;
+    }
+    h1, h2 {
+      color: #444;
+    }
+    .contact p {
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>IKSA</h1>
+    <p>आपकी पसंद, आपका स्टाइल – कपड़ों की प्रिंटिंग</p>
+    <nav>
+      <a href="#home">होम</a>
+      <a href="#about">हमारे बारे में</a>
+      <a href="#contact">संपर्क करें</a>
+    </nav>
+  </header>
+
+  <div class="container" id="home">
+    <h2>स्वागत है IKSA में</h2>
+    <p>IKSA एक भरोसेमंद नाम है कपड़ों की प्रिंटिंग की दुनिया में। हम सभी प्रकार के कपड़ों पर कस्टम डिज़ाइन, ब्रांडेड प्रिंट्स और यूनिक आइडियाज़ के साथ आपकी पहचान को नया रंग देते हैं।</p>
+    <ul>
+      <li>टी-शर्ट प्रिंटिंग (Single, Bulk)</li>
+      <li>कॉर्पोरेट यूनिफॉर्म्स</li>
+      <li>इवेंट/फैमिली फंक्शन के लिए प्रिंटिंग</li>
+      <li>स्कूल, कॉलेज, शादी के लिए प्रिंटेड ड्रेस</li>
+    </ul>
+  </div>
+
+  <div class="container" id="about">
+    <h2>हमारे बारे में</h2>
+    <p>IKSA की शुरुआत एक छोटे विचार से हुई थी – कि हर व्यक्ति की अपनी एक पहचान होती है, और हम उस पहचान को कपड़ों पर उभारते हैं। आज IKSA एक भरोसेमंद नाम बन चुका है कपड़ा प्रिंटिंग की इंडस्ट्री में।</p>
+    <p>हमारा उद्देश्य है – हर ग्राहक को उनकी जरूरत और सोच के अनुसार शानदार और टिकाऊ प्रिंटेड कपड़े उपलब्ध कराना।</p>
+  </div>
+
+  <div class="container contact" id="contact">
+    <h2>संपर्क करें</h2>
+    <p><strong>फोन:</strong> 9693974373</p>
+    <p><strong>ईमेल:</strong> kkonlinemarket25@gmail.com</p>
+    <p><strong>पता:</strong> Matihani Rajghat, East Kali Mandir Pul के पास, Bihariganj Road</p>
+    <p><strong>समय:</strong> सुबह 9 बजे से रात 8 बजे तक</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 IKSA. सभी अधिकार सुरक्षित।</p>
+  </footer>
+</body>
+</html>
